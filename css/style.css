@@ -1226,4 +1226,28 @@ input[type="text"] {
   }
 }
 
+/* No spacing on the cells */
+table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+/* General cell styling - also styling the new divs to match */
+.mid_col,
+td {
+    padding: 2px;
+}
+
+.mid_col_less,
+td {
+    padding: px;
+}
+
+
+/* This takes the vertical spacing off of the tds holding the new divs
+       It also sets the space between each column (here 25px) */
+td:nth-of-type(2){
+    padding:0px 25px;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -1301,3 +1301,9 @@ td:nth-of-type(2){
    flex-basis: 50%;
    flex-shrink:1;
  }
+
+@media (max-width:768px) {
+  img#optionalstuff {
+    display: none;
+  }
+}

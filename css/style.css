@@ -1302,8 +1302,45 @@ td:nth-of-type(2){
    flex-shrink:1;
  }
 
+/*
 @media (max-width:768px) {
-  img#optionalstuff {
+  img#content2 {
+    max-width: 100%;
+    height: auto;
     display: none;
   }
 }
+*/
+
+img#content2 {
+    width = auto;
+    height: auto;
+    max-width: 100%;
+}
+
+
+@media screen and (max-width: 1200px) {
+/*  #fh5co-intro {*/
+    #wrapper{
+      display: flex; 
+      align-items: stretch; 
+        flex-flow: column wrap;        
+    }
+    #content{
+
+        order: 1; 
+        width = 150%;
+/*    padding: 3em 1em;*/
+  }
+    #content2{
+        order: 2; 
+/*        width = 100%*/
+    display: none
+        
+    }
+    
+}
+
+
+
+

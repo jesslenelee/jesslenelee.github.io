@@ -499,8 +499,8 @@ h1, h2, h3, h4, h5, h6, figure {
     text-align: justify
 }
 #fh5co-intro .container {
-  padding-left: 15px; /* Left padding */
-  padding-right: 15px; /* Right padding */
+  padding-left: 10px; /* Left padding */
+  padding-right: 10px; /* Right padding */
 }
 #fh5co-intro {
   max-width: 1200px;

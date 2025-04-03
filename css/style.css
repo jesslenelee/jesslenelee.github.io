@@ -494,18 +494,18 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-intro {
-  padding: 10em 15px 4em 15px; 
-/*   padding: 10em 0 4em 0; */
+/*   padding: 10em 15px 4em 15px;  */
+  padding: 10em 0 4em 0;
     text-align: justify
 }
-#fh5co-intro .container {
+/* #fh5co-intro .container {
   padding-left: 10px; /* Left padding */
   padding-right: 10px; /* Right padding */
 }
 #fh5co-intro {
   max-width: 1200px;
   margin: 0 auto; /* Center the intro section horizontally */
-}
+} */
 
 #fh5co-body {
   padding: 6em 0 4em 0;

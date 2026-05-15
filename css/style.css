@@ -500,8 +500,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-intro {
 /*   padding: 10em 15px 4em 15px;  */
   padding: 10em 0 4em 0;
-    /* text-align: justify */
-  text-align: left;
+    text-align: justify
+  /* text-align: left */
 }
 /* #fh5co-intro .container {
   padding-left: 10px; /* Left padding */
@@ -1289,8 +1289,8 @@ td:nth-of-type(2){
  }
 
  #wrapper ul li img {
-   /* float: left; */
-    /* width: 45%; */
+   float: left;
+    width: 45%;
      margin-right: 20px
          
  }

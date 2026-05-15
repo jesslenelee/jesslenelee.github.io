@@ -113,6 +113,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
   background: #6969699;
 } */
+::selection {
+  color: inherit;
+  background: rgba(0, 120, 215, 0.3);
+}
 
 .container-wrap {
   width: 1300px;

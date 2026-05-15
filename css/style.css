@@ -1297,7 +1297,7 @@ td:nth-of-type(2){
 
  #wrapper ul li .details {
    padding: 0 20px 20px 0px;
-   width: 65%;
+   width: 50%;
    display: flex;
    flex-direction: column;
  }

@@ -1319,7 +1319,7 @@ td:nth-of-type(2){
 /*
 @media (max-width:768px) {
   img#content2 {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
     display: none;
   }
